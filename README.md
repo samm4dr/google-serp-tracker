@@ -2,6 +2,9 @@
 
 Rank trackers charge $50-150/month for what's essentially a Google query on a schedule. Here's the same thing in 30 lines of Python + an Apify actor — pay per SERP, own the pipeline.
 
+> 🤖 **Try it live** — chat with a Poe bot that generates the exact pipeline for your keywords:
+> **[SERP Rank Tracker](https://poe.com/serpranktracker)** · [Lead List Generator](https://poe.com/leadlistgenerator) · [Job Postings Miner](https://poe.com/jobpostingsminer) · [Amazon Product Miner](https://poe.com/amazonproductminer) · [Social Lead Finder](https://poe.com/socialleadfinder)
+
 ## The stack
 
 - **[Apify](https://console.apify.com/sign-up?fpr=dx06p)** — `apify/google-search-scraper` returns clean SERP JSON. Free monthly credits.
